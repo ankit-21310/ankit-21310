@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankit-21310](https://github.com/ankit-21310)
 
-- 📫 How to reach me **ankit21310@iiitd.ac.in**
+- 📫 How to reach me **ankitiit2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
