@@ -149,19 +149,6 @@ More hackathon builds on [Devpost →](https://devpost.com/ankit21310)
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankit-21310&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-21310&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ankit-21310&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
 <p align="center">
   <i>Open to ML engineering roles, research collaboration, and interesting problems.</i><br>
   <a href="mailto:ankitiit2003@gmail.com">ankitiit2003@gmail.com</a>
