@@ -1,4 +1,4 @@
-<h1 align="center">Ankit Kumar Singh</h1>
+# Ankit Kumar Singh
 
 <p align="center">
   <b>Machine Learning Software Engineer</b><br>
@@ -14,6 +14,9 @@
   </a>
   <a href="https://devpost.com/ankit21310">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/>
+  </a>
+  <a href="https://www.kaggle.com/ankit2021310">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="mailto:ankitiit2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -37,7 +40,7 @@ B.Tech in Computer Science & Design from **IIIT Delhi** (2021–2025), where I m
 
 What I care about most is the gap between a model that works in a paper and one that works in production: calibration, evaluation, latency, and the unglamorous engineering that closes it.
 
-**Focus areas** — Fine-tuning · RAG · AI agents · Computer Vision
+**Focus areas** — Fine-tuning · RAG · AI agents · Computer Vision  
 **Based in** — New Delhi / Noida, India
 
 ---
@@ -45,6 +48,7 @@ What I care about most is the gap between a model that works in a paper and one 
 ## Experience
 
 ### Machine Learning Software Engineer — Andor Communications Pvt Ltd
+
 `Jan 2025 — Present`
 
 - Fine-tuned and deployed **BiRefNet**-based segmentation models for background image processing, trained on in-house custom datasets and optimized for production AI tooling — **IoU 0.92**, **SSIM 0.95**.
@@ -56,7 +60,9 @@ What I care about most is the gap between a model that works in a paper and one 
 ## Featured Project
 
 ### [DocuGuardian](https://github.com/ankit-21310/DocuGuardian) — AI Document Protection Agent
+
 `OpenAI Build Week · team of 5`
+
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankit-21310/DocuGuardian)
 [![Demo](https://img.shields.io/badge/Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=q4ZNR_g1abs)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/software/docuguardian)
@@ -75,18 +81,27 @@ An end-to-end document intelligence platform that goes past summarization — it
 ## Other Projects
 
 ### Autoencoder-Driven Gen AI with Kalman Filter
+
 `Aug 2024 — Dec 2024 · team of 3`
+
 A lightweight architecture pairing autoencoders with Kalman filters for text classification, sentiment analysis, and sequence modelling on memory- and compute-constrained systems. Smaller and faster models without leaning on LLM-scale compute.
+
 `Python` `Kalman Filter` `Autoencoders`
 
 ### Breast Cancer Classification
+
 `Feb 2024 — May 2024 · team of 2`
+
 Benchmarked five classical ML models for tumour classification, then applied PCA to compress the feature space while preserving nearly all the signal — **98.25% accuracy**, **67% fewer features**, **95.16% variance retained**.
+
 `scikit-learn` `pandas` `seaborn`
 
 ### Online Pharmacy — CLI Transaction Platform
+
 `Jun 2022 — Aug 2022 · team of 2`
+
 Rebuilt a CLI transaction platform end to end, automating invoicing and order workflows on a redesigned relational schema — **50+ daily transactions**, **70% less manual work**, **40% faster queries**.
+
 `MySQL` `DBMS`
 
 ---
